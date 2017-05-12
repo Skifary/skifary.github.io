@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Sadness And Sorrow
+tagline:      Skifary
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Skifary
+  url:        https://github.com/Skifary
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
