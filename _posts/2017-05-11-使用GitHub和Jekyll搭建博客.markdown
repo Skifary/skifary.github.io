@@ -5,12 +5,12 @@ date:   2017-05-11 21:04:15
 categories: technology
 ---
 
-# 使用GitHub和Jekyll搭建博客
+# 使用GitHub和Jekyll搭建博客(搭建环境为`macOS`)
 ## 前言
 
 很久以前就想写博客，但是一直没有毅力把这件事做下去，现在开始拒绝眼高手低，开始记录自己的点点滴滴。  
 
-本文介绍如何使用GitHub Pages+Jekyll搭建和使用个人博客，包括GitHub Pages搭建，域名替换，Jekyll本地测试环境搭建等方面，搭建环境为`macOS`。  
+本文介绍如何使用GitHub Pages+Jekyll搭建和使用个人博客，包括GitHub Pages搭建，域名替换，Jekyll本地测试环境搭建等方面。  
 
 ## GitHub Pages
 
